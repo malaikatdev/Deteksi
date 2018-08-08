@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Deteksi</string>
+    <string name="txt_message">Tidak Ada Text Yang Di Deteksi</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+</resources>
